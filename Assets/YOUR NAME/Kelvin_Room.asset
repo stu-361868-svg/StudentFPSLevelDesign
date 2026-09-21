@@ -15,5 +15,5 @@ MonoBehaviour:
   sceneName: Kelvin_Room
   displayName: Room
   creatorName: By Kelvin Arthur
-  levelPrefab: {fileID: 5115060657782514083, guid: f6ca98d3746f205478cc70141f533645, type: 3}
+  levelPrefab: {fileID: 8885903896040149890, guid: 698808e6b3490074786147f67700a1ca, type: 3}
   previewScale: {x: 0.1, y: 0.1, z: 0.1}
